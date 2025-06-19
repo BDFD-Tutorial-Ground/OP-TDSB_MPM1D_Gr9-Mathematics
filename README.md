@@ -13,7 +13,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-Tutorial-Ground/TDSB_MPM1D_Gr9-Mathematics?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>MPM1D-Mathematics For Grade 9
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>MPM1D-Principles of Mathematics 9
 
 ## About This Course
 
@@ -63,7 +63,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-High School Enrolled : TDSB High School Gr 9 Mathematics  
+High School Enrolled : TDSB High School-Principles of Mathematics 9
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="bdfd" />
 
 Main Instructor:

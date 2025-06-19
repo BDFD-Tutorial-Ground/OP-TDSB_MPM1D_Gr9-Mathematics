@@ -63,7 +63,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-High School Enrolled : TDSB High School-Principles of Mathematics 9
+High School Enrolled : TDSB High School-Principles of Mathematics 9  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="bdfd" />
 
 Main Instructor:

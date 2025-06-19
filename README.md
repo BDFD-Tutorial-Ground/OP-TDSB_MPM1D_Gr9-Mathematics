@@ -27,7 +27,7 @@ This repo provides a framework outlining what students are expected to know and 
 
 - [x] **None**
 
-**Course Learning Objectives**
+**Course Learning Objectives**  
 The principles underlying this curriculum are shared by educators dedicated to the success of all students in learning mathematics. Those principles can be stated as follows:
 
 - Curriculum expectations must be coherent, focused, and well-articulated across the grades
@@ -63,7 +63,7 @@ The courses enlisted as follows:
 
 ## Course Description: 1 Course
 
-High School Enrolled : TDSB High School Gr 9 Mathematics
+High School Enrolled : TDSB High School Gr 9 Mathematics  
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="bdfd" />
 
 Main Instructor:

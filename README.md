@@ -17,7 +17,7 @@
 
 ## About This Course
 
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
+![commits](https://img.shields.io/github/last-commit/BDFD-Tutorial-Ground/TDSB_MPM1D_Gr9-Mathematics?label=Last%20Commit%20)
 
 The goal of Ontario Secondary School is to support high-quality learning while giving individual students the oppportunity to choose programs that suit their skills and interests. The updated Ontario curriculum, in combination with a broader range of learning options outside traditional classroom instruction, will enable student to better customize their high school education and improve their prospects for success in school and in lifes.
 

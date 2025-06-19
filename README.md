@@ -64,7 +64,7 @@ The courses enlisted as follows:
 ## Course Description: 1 Course
 
 High School Enrolled : TDSB High School Gr 9 Mathematics
-<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
+<img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/Toronto_District_School_Board_Logo.png" alt="bdfd" />
 
 Main Instructor:
 
@@ -79,15 +79,15 @@ Main Instructor:
 
 **Add-on Resources:**
 
-1. Microsoft Excel
-2. Scientific Calculator
-3. TI-83+ Graphing Calculator
+1. Scientific Calculator
+2. Desmos/GeoGebra(Graphing App)
+3. Wolfram Alpha(Solution Helper)
 
 **Projects:**
 
 #### Useful Resources
 
-- [Course Description Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Description Link](https://schoolweb.tdsb.on.ca/Portals/malvernci/docs/Gr%209%20Math%20MTH1W1.pdf)
 
 <div align="center">
 

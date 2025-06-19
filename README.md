@@ -52,39 +52,42 @@ The principles underlying this curriculum are shared by educators dedicated to t
 
 The courses enlisted as follows:
 
-- [ ] **M1-Kinematics**
-- [ ] **M2-Dynamics**
-- [ ] **M3-Energy**
-- [ ] **M4-Linear Momentum**
-- [ ] **M5-Rotational Motion**
-- [ ] **M6-Angular Momentum**
+- [x] **C1-Rational Numbers**
+- [x] **C2-Powers and Polynomials**
+- [x] **C3-Linear Relations**
+- [x] **C4-Linear Equations**
+- [x] **C5-Analytic Geometry**
+- [x] **C6-Investigating Relationships**
+- [x] **C7-Properties of 2D Figures**
+- [x] **C8-Measurement**
 
 ## Course Description: 1 Course
 
-University Enrolled : University of Waterloo  
+High School Enrolled : TDSB High School Gr 9 Mathematics
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/2.0%20Canda%20University%20Logo/University_of_Waterloo.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Lecture Facilitator - Prof. Richard Epp
-2. Workshop Facilitator - Prof. Karen Cummings
+1. Lecture Facilitator -
+2. Workshop Facilitator -
 
 ## Applied Learning Project
 
 **Textbooks:**
 
-1. University Physics, 15th Ed. By Young and Freedman
+1. Principles of Mathematics 9(Thomson Nelson, 2008)
 
 **Add-on Resources:**
 
-1. Mastering Physics on-line homework system
+1. Microsoft Excel
 2. Scientific Calculator
+3. TI-83+ Graphing Calculator
 
 **Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Description Link](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 <div align="center">
 
@@ -99,5 +102,3 @@ Main Instructor:
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/bdfd)
 
 </div>
-
-<!-- ![Certificate](https://cdn.jsdelivr.net/gh/BDFD-LearningGround/Certificate-Folder/6.0-Others/Course-Version%20Control%20with%20Git/Course-Version%20Control%20with%20Git.jpeg) -->

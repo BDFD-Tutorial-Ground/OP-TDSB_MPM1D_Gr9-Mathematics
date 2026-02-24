@@ -40,11 +40,11 @@ The principles underlying this curriculum are shared by educators dedicated to t
 
 - [x] **P1-Textbook(Thomson Nelson/2008)**
 - [ ] **P2-Solution Mannual(Publisher/Year)**
-- [ ] **P3-Lecture Handout(Providers/Year)**
+- [x] **P3-Lecture Handout(Providers/Year)**
 - [ ] **P4-Problem Set(Providers/Year)**
-- [ ] **P5-Course Project(Providers/Year)**
+- [x] **P5-Course Project(Providers/Year)**
 - [ ] **P6-Past Quiz(Providers/Year)**
-- [ ] **P7-Past Test(Providers/Year)**
+- [x] **P7-Past Test(Providers/Year)**
 - [x] **P8-Past Exam(SP01/2025)**
 - [x] **P9-Reference Note/Book(TDSB Classnote/2025)**
 
